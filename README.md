@@ -1,10 +1,6 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Loan Data from Prosper
 
-
-## Dataset
-
-> This data set contains 113,937 loans from 2005 to 2014 with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
+> This data set contains 113,937 loans from 2005 to 2014 with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1554484977406000)
 
 
 ## Summary of Findings
